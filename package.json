@@ -7,10 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "echo \"No build script setup\""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marco-Daniel/gatsby-plugin-add-filters.git"
+  },
   "keywords": [
     "gatsby",
     "gatsby-plugin"
   ],
   "author": "Marco D. Leguijt <marco@mddd.nl>",
-  "license": "0BSD"
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/Marco-Daniel/gatsby-plugin-add-filters/issues"
+  },
+  "homepage": "https://github.com/Marco-Daniel/gatsby-plugin-add-filters#readme"
 }
