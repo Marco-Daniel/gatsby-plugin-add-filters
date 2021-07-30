@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-add-filters`,
       options: {
-        types: [`typeName`],
+        types: [`typeNameContainingNodesField`],
       },
     },
   ],
